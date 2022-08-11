@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS ecommerce_db;
-CREATE DATABASE ecommerce_db;
+DROP DATABASE IF EXISTS 13_object_relation_mapping;
+CREATE DATABASE 13_object_relation_mapping;
