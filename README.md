@@ -16,10 +16,7 @@
 
 ## Video
 
-
-https://user-images.githubusercontent.com/98803950/184242717-94598948-f0ab-4aca-b9c5-ce01dd060706.mp4
-
-
+https://user-images.githubusercontent.com/98803950/184242834-fda8ccba-0fc7-4507-9a4e-6ac079213c79.mp4
 
 ## Usage
 💻 run the following command
